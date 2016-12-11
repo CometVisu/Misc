@@ -4,5 +4,5 @@ Description=CometVisu theme that blinks at the comet tail
 ModuleName=script
 
 [script]
-ImageDir=/lib/plymouth/themes/cometvisu
-ScriptFile=/lib/plymouth/themes/cometvisu/cometvisu.script
+ImageDir=/usr/share/plymouth/themes/cometvisu
+ScriptFile=/usr/share/plymouth/themes/cometvisu/cometvisu.script
