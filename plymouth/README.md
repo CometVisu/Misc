@@ -1,7 +1,7 @@
 The directory "cometvisu" should be copyed on the system to the directory 
 for the plymouth themes.
-On Ubuntu (14.04) this is:
-  /lib/plymouth/themes/
+* On Ubuntu (14.04) this is: /lib/plymouth/themes/
+* On Ubuntu (16.04) this is: /usr/share/plymouth/themes/
 
 When update-alternatives is used (like on Ubuntu) then this alternative
 should be announced to the system. This can be done with: 
